@@ -20,6 +20,6 @@
     "prettier": "^1.16.4"
   },
   "dependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^5.0.0"
   }
 }
